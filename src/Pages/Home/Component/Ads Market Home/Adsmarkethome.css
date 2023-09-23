@@ -1,0 +1,62 @@
+
+.adsmarkethome {
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 80px 40px;
+    
+}
+.adsmarkethomeheader{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adsmarkethometitle {
+color: #000;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+
+
+.adsmarkethomeimgcontainer{
+    padding: 30px;
+
+    max-width: 1000px;
+    display: grid;
+    grid-auto-flow: column;
+    column-gap: 20px;
+    overflow-x: auto;
+}
+
+.adsmarkethome-block-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.adsmarkethome-block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.adsmarkethome-blockimg-container{
+    height: 200px;
+    width: 200px;
+
+}
+.adsmarkethome-blockimg-container img{
+    height: 100%;
+    width: 100%;
+}
+

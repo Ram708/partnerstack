@@ -1,0 +1,25 @@
+.product-sidebar{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.product-sidebar-listname{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 10px 5px 10px;
+    height: 40px;
+    width: 100%;
+border-radius: 5px;
+background: #ADF0F9;
+color: #263238;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+

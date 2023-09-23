@@ -1,0 +1,80 @@
+/*  
+
+
+.adsmarket-call-main-adsmarketplace-container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.adsmarket-call-main-adsmarketplace-container-left{
+    margin-right: 60px;
+}
+
+.adsmarket-call-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.adsmarket-call-main-adsmarketplace {
+  width: 460px;
+  height: 242px;
+  flex-shrink: 0;
+  background: #fff;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+  padding: 20px;
+} */
+
+
+.adsmarket-call-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  
+}
+.adsmarket-call{
+  /* width: 500px;
+  display: flex;
+  justify-content: start;
+  flex-direction: column; */
+  width: 460px;
+  height: 100px;
+  flex-shrink: 0;
+  background: #fff;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+  padding: 20px 20px 20px 20px;
+  overflow: hidden;
+  
+}
+
+.adsmarket-call p{
+  
+}
+
+.adsmarket-call-top{
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.adsmarket-call-bottom{
+  display: flex;
+  margin-left: 10px;
+  
+ 
+  
+
+}
+.adsmarket-call-bottom-icon{
+  font-size:30px;
+  color: #249EAE;
+  cursor: pointer;
+}
+
+
+.adsmarket-bottom-call{
+  margin-left: 10px;
+}
+

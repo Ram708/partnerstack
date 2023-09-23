@@ -1,0 +1,129 @@
+.adsmarket-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 20px;
+    flex-direction: column;
+    
+}
+
+.adsmarket-main-button {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.call {
+  border-radius: 8px;
+  border: 1px solid #249eae;
+  background: #ffffff;
+  margin-right: 20px;
+  padding: 5px 30px;
+  color: #000;
+  font-weight: bold;
+}
+
+.call:hover {
+  color: #ffffff;
+    background: #249EAE;
+  }
+.website {
+  border-radius: 8px;
+  border: 1px solid #249eae;
+  background: #ffffff;
+  margin-right: 20px;
+  padding: 5px 30px;
+  color: #000;
+  font-weight: bold;
+}
+
+.adsmarket-main-keyword-searchbar{
+  margin: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+position: relative;
+}
+.adsmarket-main-keyword-searchbar input{
+  padding-left: 10%;
+  height: 30px;
+  width: 80%;
+  
+}
+.adsmarket-main-keyword-searchbar-text{
+  position: absolute;
+  left: 10%;
+}
+.website:hover {
+    background: #249EAE;
+    color: #ffffff;
+  }
+.app {
+  border-radius: 8px;
+  border: 1px solid #249eae;
+  
+  background: #ffffff;
+  margin-right: 20px;
+  padding: 5px 30px;
+  color: #000;
+  font-weight: bold;
+
+  
+}
+.all{
+  border-radius: 8px;
+  border: 1px solid #249eae;
+  background: #ffffff;
+  margin-right: 20px;
+  padding: 5px 30px;
+  color: #000;
+  font-weight: bold;
+  
+}
+
+.all:hover {
+  background: #249EAE;
+  color: #ffffff;
+}
+.app:hover {
+    background: #249EAE;
+    color: #ffffff;
+  }
+.video {
+  border-radius: 8px;
+  border: 1px solid #249eae;
+  background: #ffffff;
+  margin-right: 20px;
+  padding: 5px 30px;
+  color: #000;
+  font-weight: bold;
+}
+.video:hover {
+    background: #249EAE;
+    color: #ffffff;
+  }
+  .adsmarket-main-adsmarketplace-key{
+
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+  }
+  .adsmarket-main-adsmarketplace-container{
+    padding: 15px;
+    margin-bottom: 20px;
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+  }
+
+.adsmarket-main-adsmarketplace-container img{
+  width: 100%;
+  height: 100%;
+}
+.adsmarket-main-adsmarketplace{
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+}

@@ -1,0 +1,43 @@
+.talktoushome{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin: 0 20px;
+
+}
+
+.talktous-img{
+    width: 60%;
+height: 350px;
+
+
+}
+.talktous-img img{
+    height: 100%;
+    width: 100%;
+}
+
+.talktoushome-text h1{
+    color: #000;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin: 10px 0;
+}
+.talktoushome-text p{
+    color: #000;
+leading-trim: both;
+text-edge: cap;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}

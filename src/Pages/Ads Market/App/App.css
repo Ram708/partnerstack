@@ -1,0 +1,33 @@
+.adsmarket-app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.adsmarket-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.adsmarket-main-adsmarketplace-container-install{
+    display: inline-flex;
+  padding: 10px 30px;
+  align-items: flex-start;
+  gap: 10px;
+    border-radius: 10px;
+    background: #249EAE;
+    color: #FFF;
+  leading-trim: both;
+  text-edge: cap;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  }
+
+  
+  .adsmarket-main-adsmarketplace-app{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+  }

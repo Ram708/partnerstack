@@ -1,0 +1,32 @@
+
+
+.whatwedo-component{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+}
+
+.whatwedo-img{
+    height: 250px;
+    width: 50%;
+}
+.whatwedo-img img{
+    height: 100%;
+    width: 100%;
+}
+
+.whatwedo-txt{
+    height: 250px;
+    width: 50%;
+    margin-left: 20px;
+}
+
+.whatwedo-component-rightmode{
+    margin: 20px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+}

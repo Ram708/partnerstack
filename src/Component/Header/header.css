@@ -1,0 +1,66 @@
+.header {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  width: 100%;
+  height: 50px;
+  align-items: center;
+  justify-content: space-between;
+  background: #ADF0F9;
+}
+
+
+ .header-left-logo{
+  height: 40px;
+  width: 100px;
+  background-color: #fff;
+  margin-left: 20px;
+}
+.header-left-logo img {
+  height: 100%;
+  width: 100%;
+} 
+
+.header-right {
+
+  margin-right: 20px;
+}
+.header-center {
+  margin-right: 20px;
+}
+NavLink {
+  margin-right: 80px;
+}
+
+.home {
+  margin-right: 30px;
+  font-weight: bold;
+  color: rgb(19, 18, 18);
+}
+.what-we-do {
+  margin-right: 30px;
+  font-weight: bold;
+  color: rgb(19, 18, 18);
+}
+.our-products {
+  margin-right: 30px;
+  font-weight: bold;
+  color: rgb(19, 18, 18);
+}
+.ads-market {
+  margin-right: 30px;
+  font-weight: bold;
+  color: rgb(19, 18, 18);
+}
+
+.partners {
+  margin-right: 30px;
+  font-weight: bold;
+  color: rgb(19, 18, 18);
+}
+.blog {
+  margin-right: 30px 30px;
+  font-weight: bold;
+  color: rgb(19, 18, 18);
+}
+
